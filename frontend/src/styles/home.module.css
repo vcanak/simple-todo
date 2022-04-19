@@ -1,0 +1,14 @@
+.App {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  display: inline;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #afeeee;
+
+  text-shadow: 0 0 5px #eee, 3px -1px 5px #707070;
+}
